@@ -26,13 +26,13 @@ python --version
 Ubíquese en la carpeta del proyecto y ejecute el ejercicio que desee. Por ejemplo:
 
 ```bash
-python ejercicio1.py
+python LAB1.py
 ```
 
 En Windows también puede utilizar:
 
 ```bash
-py ejercicio1.py
+py LAB1.py
 ```
 
 ## Objetivo
